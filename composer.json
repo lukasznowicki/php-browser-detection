@@ -1,9 +1,9 @@
 {
-    "name": "foroco/php-browser-detection",
+    "name": "lukasznowicki/php-browser-detection",
     "type": "library",
     "description": "Ultra fast PHP library to detect browser, OS, platform and device type by User-Agent parsing.",
     "keywords": ["user-agent","php","browser","detection","environment","useragent"],
-    "homepage": "https://github.com/foroco/php-browser-detection",
+    "homepage": "https://github.com/lukasznowicki/php-browser-detection",
     "license": "MIT",
     "authors": [
         {
